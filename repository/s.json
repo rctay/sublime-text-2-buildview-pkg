@@ -3614,6 +3614,7 @@
 		},
 		{
 			"details": "https://github.com/rctay/sublime-text-2-buildview",
+			"donate": "https://flattr.com/profile/rctay",
 			"releases": [
 				{
 					"sublime_text": "*",
